@@ -27,8 +27,7 @@ carpentry: "dc"
 # dc-geospatial: for Data Carpentry Geospatial
 # swc-inflammation: for Software Carpentry based on the inflammation dataset
 # swc-gapminder: for Software Carpentry based on the Gapminder dataset
-curriculum: "Data Carpentry Ecology "
-
+curriculum: "Data Carpentry Ecology 
 # If there is both an R and python official version of a curriculum
 # (as listed on https://software-carpentry.org/lessons/ and
 # https://datacarpentry.org/lessons/), change the
@@ -56,7 +55,7 @@ kind: "workshop"
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
 # Please don't change it: <USERNAME>/<PROJECT> is correct.
-repository: <margha/github.io/2020-10-06-TVET1>
+repository: <USER>/<PROJECT>
 
 # Email address, no mailto:
 # (Don't change this -- the contact address for your workshop will be set
